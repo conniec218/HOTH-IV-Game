@@ -68,7 +68,7 @@ public class EnemyMovement : MonoBehaviour
     {
         if (collision.gameObject.name == "Snowball(Clone)")
         {
-            HealthScript.health -= 1;
+            Ehealth.health -= 1;
             Destroy(collision.gameObject);
         }
             

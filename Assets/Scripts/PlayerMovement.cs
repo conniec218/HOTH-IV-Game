@@ -57,7 +57,7 @@ void movePlayer()
     {
         if (collision.gameObject.name == "ESnowball(Clone)")
         {
-            HealthScript.health -= 1;
+            PHealth.health -= 1;
             Destroy(collision.gameObject);
         }
 

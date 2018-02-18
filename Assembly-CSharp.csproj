@@ -54,7 +54,6 @@
      <Compile Include="Assets\Scripts\DestroyEnemy.cs" />
      <Compile Include="Assets\Scripts\Ehealth.cs" />
      <Compile Include="Assets\Scripts\EnemyMovement.cs" />
-     <Compile Include="Assets\Scripts\HealthScript.cs" />
      <Compile Include="Assets\Scripts\PHealth.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Projectile.cs" />

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EHealth : MonoBehaviour
+public class Ehealth : MonoBehaviour
 {
 
     public static int health;
